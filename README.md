@@ -46,10 +46,24 @@ Data Wrangling: Expertise in cleaning and preparing large datasets for analysis.
 Analytical Thinking: Ability to derive meaningful insights through grouping, filtering, and statistical summaries.
 Visualization Proficiency: Creation of professional, publication-quality visualizations to communicate findings effectively.
 Tool Mastery: Advanced use of Pandas, Matplotlib, and Seaborn for end-to-end data analysis workflows.
-#Future Enhancements
+# Future Enhancements
 Integrate machine learning models to predict flight prices based on features like duration, days_left, and class.
 Add interactive visualizations using Plotly or Dash for enhanced user exploration.
 Expand analysis to include temporal trends by parsing departure_time for hourly or daily patterns
+Setup Instructions
+### Clone the Repository:
+git clone https://github.com/[Fahad-Tofeeq]/airline-data-analysis.git
+cd airline-data-analysis
+Install Dependencies:
+pip install pandas==2.3.1 numpy==2.3.2 matplotlib==3.10.5 seaborn==0.13.2 openpyxl==3.1.5
+Prepare Data: Ensure flight_analysis_output (1).xlsx is in the project directory.
+Run the Analysis:
+Open Airline project.ipynb in Jupyter Notebook.
+Execute the cells to load data, clean it, perform EDA, and generate visualizations.
+Optional: Install Jupyter Notebook:
+pip install notebook
+jupyter notebook
+
 ## Contact
 For inquiries or collaboration opportunities, please contact [Fahad Tofeeq] at [fahadtofeeq1999@gmail.com] or connect via [Fahad Tofeeq].
 

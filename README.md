@@ -1,2 +1,3 @@
-# Pakistans-Airline-Data-Analysis-ProjectUsing-python
-Airline data analysis project using Python, analyzing 300,153 flight records. Includes data cleaning, EDA, and visualizations (scatter, box, heatmaps) to reveal pricing, flight, and route trends. Utilizes Pandas, Matplotlib, Seaborn for insights. Future enhancements include ML for price prediction and interactive visualizations.
+#Airline Data Analysis Project
+##Project Overview
+This repository showcases a comprehensive data analysis project focused on exploring and visualizing a large-scale airline flight dataset. The project demonstrates proficiency in data manipulation, cleaning, exploratory data analysis (EDA), and advanced data visualization using Python. By analyzing flight data, including attributes such as airline, price, duration, departure time, and class, the project uncovers actionable insights into pricing trends, flight distributions, and operational patterns, providing valuable decision-making support for stakeholders in the aviation industry.

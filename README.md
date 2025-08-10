@@ -1,3 +1,3 @@
 #Airline Data Analysis Project
-Project Overview
+##Project Overview
 This repository showcases a comprehensive data analysis project focused on exploring and visualizing a large-scale airline flight dataset. The project demonstrates proficiency in data manipulation, cleaning, exploratory data analysis (EDA), and advanced data visualization using Python. By analyzing flight data, including attributes such as airline, price, duration, departure time, and class, the project uncovers actionable insights into pricing trends, flight distributions, and operational patterns, providing valuable decision-making support for stakeholders in the aviation industry.
